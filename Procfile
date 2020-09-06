@@ -1,1 +1,1 @@
-worker: python AlteriaVOICE.py
+worker: python bot.py
